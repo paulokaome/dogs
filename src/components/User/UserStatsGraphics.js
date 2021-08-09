@@ -14,10 +14,11 @@ const UserStatsGraphics = ({ data }) => {
         y: Number(item.acessos),
       };
     });
-
-    setTotal(
-      data.map(({ acessos }) => Number(acessos)).reduce((a, b) => a + b)
-    );
+    if (data.length >= 1) {
+      setTotal(
+        data.map(({ acessos }) => Number(acessos)).reduce((a, b) => a + b)
+      );
+    }
     setGraph(graphData);
   }, [data]);
 
@@ -46,7 +47,7 @@ const UserStatsGraphics = ({ data }) => {
       </div>
       <div className={styles.graphitem}>
         <VictoryChart>
-          <VictoryBar data={graph} alignment="start"/>
+          <VictoryBar data={graph} alignment="start" />
         </VictoryChart>
       </div>
     </section>
