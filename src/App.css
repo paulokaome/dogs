@@ -86,3 +86,15 @@ a {
 .mainContainer{
   margin-top: 2rem;
 }
+
+.App{
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh + 5rem);
+}
+.AppBody{
+  flex: 1;
+}
+.VictoryContainer{
+  height: initial !important;
+}
