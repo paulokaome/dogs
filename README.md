@@ -16,7 +16,7 @@ O projeto foi criado com ReactJS, A intenção era  ter o mínimo de LIB externa
 
 🎆Ou se preferer acesso o link pro projeto em live!👇🏻
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://instafordogs.netlify.app/login
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://instafordogs.netlify.app
 
 ## 📫Entre em contato  comigo .... 👇
 
