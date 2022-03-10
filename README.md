@@ -16,8 +16,9 @@ O projeto foi criado com ReactJS, A intenção era  ter o mínimo de LIB externa
 
 🎆Ou se preferer acesso o link pro projeto em live!👇🏻
 
-Login:Dog
-Senha: Dog
+Login: Dog.
+
+Senha: Dog.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://instafordogs.netlify.app
 
